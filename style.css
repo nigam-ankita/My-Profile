@@ -1,0 +1,20 @@
+.gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #072746;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgb(25, 26, 75), rgba(166, 193, 238, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(43, 42, 59), rgba(166, 193, 238, 1))
+    }
+    #profile
+    {
+     background-color: #071c32;
+        /* background-image: url(./image/hands-desk-office-working.webp); */
+    }
+    #profile_section
+    {
+        background-color:rgb(21, 28, 84);
+        color: aqua;
+    }
